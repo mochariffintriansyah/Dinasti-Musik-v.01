@@ -1,23 +1,23 @@
 {
   "storeConfig": {
     "name": "Dinasti Musik",
-    "ownerName": "Riski Ganjani",
+    "ownerName": "Riski Gianjani",
     "ownerRole": "Owner / Pemilik Dinasti Musik",
-    "whatsapp": "6289512430608",
+    "whatsapp": "628992221537",
     "email": "admin@dinastimusik.com",
     "address": "Jl. Pasir Rahayu IV, CC No. 22, Bandung",
     "ownerPhoto": "/assets/owner/riski-ganjani.jpg",
     "bio": "Dedikasi menyajikan instrumen musik kualitas dunia dan layanan profesional bagi musisi Indonesia.",
-    "established": 2018
+    "established": 2015
   },
   "users": [
     {
       "id": "USR-OWNER",
       "email": "admin@dinastimusik.com",
       "password": "dinasti2026",
-      "name": "Riski Ganjani",
+      "name": "Riski Gianjani",
       "role": "owner",
-      "phone": "+6289512430608"
+      "phone": "+628992221537"
     },
     {
       "id": "USR-CUST-1",
